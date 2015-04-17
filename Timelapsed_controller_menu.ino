@@ -1,5 +1,5 @@
 /*
-El programa: este programa controla un Dolly para la realizacion de TimeLapsed
+El programa: este programa controla un Dolly para la realizacion de TimeLapsed v2
 */
 
 
